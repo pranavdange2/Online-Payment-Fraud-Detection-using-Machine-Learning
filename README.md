@@ -103,6 +103,10 @@ The application runs in debug mode by default, which enables:
 - For production deployment, use a proper WSGI server (e.g., Gunicorn)
 - Implement proper input validation and rate limiting for production use
 
+## Dataset
+
+The dataset used for training the model can be accessed here: [Online Payment Fraud Dataset](https://drive.google.com/file/d/133E0TDrfIjnhwRoGTw9OEozwBXUL38D8/view)
+
 ## License
 
 [MIT License](LICENSE)
